@@ -1,3 +1,3 @@
 # mlhouse
 Update ML_model_deploy_for_house_prediction
-templates/mlindex.html
+https://ronimahabub2021.github.io/mlhouse/templates/mlindex.html
